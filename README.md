@@ -1,5 +1,5 @@
 # SimpleCryptography
-Perl Text Encryption and Decryption using character substitution and employ window addition. I got the ide from [Dual Key Triple Encryption].
+Perl Text Encryption and Decryption using character substitution and employ window addition. I got the idea from [Dual Key Triple Encryption]. Feel free to contact me [@zakiafrani].
 
 ### Usage
 
