@@ -4,7 +4,7 @@ use warnings;
 use File::Slurp;
 
 if ($#ARGV != 3 ) {
-	print "usage: sicry -e/-d input key output\neg: enc -e plain.txt iamakey encrypted.txt\n";
+	print "usage: sicry.pl -e/-d input key output\neg: sicry.pl -e plain.txt iamakey encrypted.txt\n";
 	exit;
 }
 
